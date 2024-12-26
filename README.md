@@ -8,5 +8,5 @@ Folder 2-Intersections-1NN is currently unavailable, please see 2-Intersections-
 This code is the result of a joint project done as part of the Bachelor's in Enigneering Physics developed by:
 - Josep Amigó
 - Marina Maroto
-- Josep Amigó
+- Sara Molló
 
