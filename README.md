@@ -10,3 +10,7 @@ This code is the result of a joint project done as part of the Bachelor's in Eng
 - Marina Maroto
 - Sara Molló
 
+# References
+Based on Andrea Vidali's implementation at: https://github.com/AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control.git
+
+
