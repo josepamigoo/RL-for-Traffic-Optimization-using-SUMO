@@ -1,5 +1,5 @@
 # RL-for-Traffic-Optimization-using-SUMO
-In this repository, all codes necessary to implement an optimised ftraffic simulatin are presented. This includes a one single intersection layout, and two intserection with one agent and multiagent.
+In this repository, all codes necessary to implement an optimised traffic simulation are presented. This includes a one single intersection layout, and two intserection with one agent and multiagent.
 
 # Important notes
 Folder 2-Intersections-1NN is currently unavailable, please see 2-Intersections-1NN-v1
